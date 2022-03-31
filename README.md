@@ -34,10 +34,11 @@
 ### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Want to Kick-start Your Coding Career? Read This](https://mburukelvin.wordpress.com/2021/02/04/want-to-kick-start-your-coding-career-read-this/)
+- [6 Fantastic Ways to Make the Twitter Algorithm Work for You](https://mburukelvin.wordpress.com/2021/04/02/6-fantastic-ways-to-make-the-2021-twitter-algorithm-work-for-you/)
+- [7 Easy Tips to Outsmart the Instagram Algorithm &lpar;and go viral!&rpar;](https://mburukelvin.wordpress.com/2021/03/30/7-easy-tips-to-outsmart-the-instagram-algorithm-in-2021-and-go-viral/)
 - [The TikTok Algorithm: 9 Easy Ways to Make Your Video Go Viral](https://mburukelvin.wordpress.com/2021/03/26/the-tiktok-algorithm-9-easy-ways-for-a-beginner-to-make-your-video-go-viral-in-2021/)
-- [7 Easy Tips to Outsmart the Instagram Algorithm (and go viral!)](https://mburukelvin.wordpress.com/2021/03/30/7-easy-tips-to-outsmart-the-instagram-algorithm-in-2021-and-go-viral/)
+- [Campus Life: Financial and Life Tips for the College Student](https://mburukelvin.wordpress.com/2021/02/07/campus-life-financial-and-life-tips-for-the-college-student-in-2021/)
+- [It’s Time to Move Away from the City for a More Peaceful Life](https://mburukelvin.wordpress.com/2021/02/04/its-time-to-move-away-from-the-city-for-a-more-peaceful-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mburukelvin.wordpress.com/)
