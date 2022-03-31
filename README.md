@@ -34,7 +34,6 @@
 ### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [6 Fantastic Ways to Make the Twitter Algorithm Work for You](https://mburukelvin.wordpress.com/2021/04/02/6-fantastic-ways-to-make-the-2021-twitter-algorithm-work-for-you/)
 - [7 Easy Tips to Outsmart the Instagram Algorithm &lpar;and go viral!&rpar;](https://mburukelvin.wordpress.com/2021/03/30/7-easy-tips-to-outsmart-the-instagram-algorithm-in-2021-and-go-viral/)
 - [The TikTok Algorithm: 9 Easy Ways to Make Your Video Go Viral](https://mburukelvin.wordpress.com/2021/03/26/the-tiktok-algorithm-9-easy-ways-for-a-beginner-to-make-your-video-go-viral-in-2021/)
