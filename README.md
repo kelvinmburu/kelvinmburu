@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
