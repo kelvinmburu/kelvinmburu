@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about Full-Stack Software Development
 - ⚡ Fun fact: I love to read books and drink coffee.
 
-### I'm Social. Let's Connect!:
+### I'm Social. Let's Connect:
 
 [![website](./img/globe-light.svg)](https://mburukelvin.wordpress.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mburukelvin.wordpress.com/#gh-dark-mode-only)
