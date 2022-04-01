@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
+        max-post-count: '3'
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://mburukelvin.wordpress.com/feed/'
-          max-post-count: '3'
