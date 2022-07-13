@@ -1,8 +1,8 @@
 ## Hi there, I'm Kelvin Mburu 👋
 
-## I'm a Project Manager, UI/UX Analyst, Developer, and a Blog Writer!
+## I'm a Front-End Web Developer and a Technical Writer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Learn more about Full-Stack Software Development
 - ⚡ Fun fact: I love to read books and drink coffee.
