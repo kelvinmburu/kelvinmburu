@@ -45,12 +45,8 @@
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;"/>
 
-
 <br />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinmburu&show_icons=true&locale=en&layout=compact" alt="kelvinmburu" /></p>
-<br />
 
 ### 📕 My Blog Posts
 
@@ -76,3 +72,6 @@
 [website]: https://mburukelvin.wordpress.com/
 [twitter]: https://twitter.com/mburukelvin_
 [linkedin]: https://www.linkedin.com/in/kelvin-m-560a25135/
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinmburu&show_icons=true&locale=en&layout=compact" alt="kelvinmburu" /></p>
