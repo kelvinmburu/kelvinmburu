@@ -1,11 +1,18 @@
-## Hi there, I'm Kelvin Mburu 👋
+## Hello there, I'm Kelvin Mburu 👋
 
 ## I'm a Front-End Web Developer and a Technical Writer!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning React and Technical Writing
+
 - 👯 I’m looking to collaborate with other software developers
+
 - 🥅 2022 Goals: Learn more about Full-Stack Software Development
-- ⚡ Fun fact: I love to read books and drink coffee.
+
+- ⚡ Fun fact: I'm currently working on [Valisha](https://valisha.herokuapp.com/) and [Mealy](https://github.com/kelvinmburu/mealy-front)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinmburu&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinmburu" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mburukelvin_" target="blank"><img src="https://img.shields.io/twitter/follow/mburukelvin_?logo=twitter&style=for-the-badge" alt="mburukelvin_" /></a> </p>
 
 ### I'm Social. Let's Connect:
 
