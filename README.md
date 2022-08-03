@@ -47,9 +47,10 @@
 
 
 <br />
-<br />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinmburu&show_icons=true&locale=en&layout=compact" alt="kelvinmburu" /></p>
+<br />
 
 ### 📕 My Blog Posts
 
