@@ -15,6 +15,8 @@
 
 - ⚡ View my project [Portfolio](https://kelvinmburu.github.io/kelvin_portfolio/)
 
+- ⚡ Building the [Elewa OSS LMS](https://github.com/italanta/elewa)
+
 
 ### I'm Social. Let's Connect:
 
