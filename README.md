@@ -53,7 +53,6 @@
 ### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Easy Tips to Outsmart the Instagram Algorithm &lpar;and go viral!&rpar;](https://mburukelvin.wordpress.com/2021/03/30/7-easy-tips-to-outsmart-the-instagram-algorithm-in-2021-and-go-viral/)
 - [Campus Life: Financial and Life Tips for the College Student](https://mburukelvin.wordpress.com/2021/02/07/campus-life-financial-and-life-tips-for-the-college-student-in-2021/)
 - [It’s Time to Move Away from the City for a More Peaceful Life](https://mburukelvin.wordpress.com/2021/02/04/its-time-to-move-away-from-the-city-for-a-more-peaceful-life/)
 - [Want to Kick-start Your Coding Career? Read This](https://mburukelvin.wordpress.com/2021/02/04/want-to-kick-start-your-coding-career-read-this/)
