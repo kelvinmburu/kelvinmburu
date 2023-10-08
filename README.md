@@ -16,6 +16,8 @@
 - ⚡ View my project [Portfolio](https://kelvinmburu.github.io/kelvin_portfolio/)
 
 - ⚡ Building the [Elewa OSS LMS](https://github.com/italanta/elewa)
+  
+[![An image of @kelvinmburu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kelvinmburu)](https://holopin.io/@kelvinmburu)
 
 
 ### I'm Social. Let's Connect:
@@ -46,6 +48,10 @@
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;"/>
 
+
+
+
+<br />
 
 <br />
 
