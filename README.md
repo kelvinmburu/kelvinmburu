@@ -62,9 +62,10 @@ px;" />
 ### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Best JavaScript Frameworks for Beginners](https://frontdev.hashnode.dev/3-best-javascript-frameworks-for-beginners)
-- [4 Techniques to Implement Responsive Layouts in React](https://frontdev.hashnode.dev/4-techniques-to-implement-responsive-layouts-in-react)
-- [A Beginner's Guide to Testing in Frontend Development](https://frontdev.hashnode.dev/a-beginners-guide-to-testing-in-frontend-development)
+- [Campus Life: Financial and Life Tips for the College Student](https://mburukelvin.wordpress.com/2021/02/07/campus-life-financial-and-life-tips-for-the-college-student-in-2021/)
+- [It’s Time to Move Away from the City for a More Peaceful Life](https://mburukelvin.wordpress.com/2021/02/04/its-time-to-move-away-from-the-city-for-a-more-peaceful-life/)
+- [Want to Kick-start Your Coding Career? Read This](https://mburukelvin.wordpress.com/2021/02/04/want-to-kick-start-your-coding-career-read-this/)
+- [A Bloggers first post](https://mburukelvin.wordpress.com/2018/05/18/a-bloggers-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://frontdev.hashnode.dev/)
