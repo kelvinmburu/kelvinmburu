@@ -27,8 +27,7 @@ Here 👇 are some cool badges I got from participating in 2023's [#hacktoberfes
 [![website](./img/globe-light.svg)](https://frontdev.hashnode.dev/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://frontdev.hashnode.dev/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]
-(https://twitter.com/mburukelvin_#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/mburukelvin_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mburukelvin_#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kelvin-m-560a25135/#gh-light-mode-only)
