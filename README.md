@@ -17,7 +17,7 @@
 
 - ⚡ Building the [Elewa OSS LMS](https://github.com/italanta/elewa)
 
-Here 👇 are some cool badges I got from participating in this years' [#hacktoberfest](https://hacktoberfest.com/) as a Technical Writer
+Here 👇 are some cool badges I got from participating in 2023's [#hacktoberfest](https://hacktoberfest.com/) as a Technical Writer
   
 [![An image of @kelvinmburu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kelvinmburu)](https://holopin.io/@kelvinmburu)
 
@@ -39,7 +39,8 @@ Here 👇 are some cool badges I got from participating in this years' [#hacktob
 
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
+<
+img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
