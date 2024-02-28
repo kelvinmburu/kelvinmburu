@@ -27,7 +27,8 @@ Here 👇 are some cool badges I got from participating in 2023's [#hacktoberfes
 [![website](./img/globe-light.svg)](https://frontdev.hashnode.dev/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://frontdev.hashnode.dev/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mburukelvin_#gh-light-mode-only)
+[![website](./img/twitter-light.svg)]
+(https://twitter.com/mburukelvin_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mburukelvin_#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kelvin-m-560a25135/#gh-light-mode-only)
@@ -39,7 +40,6 @@ Here 👇 are some cool badges I got from participating in 2023's [#hacktoberfes
 
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;"/>
-
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
